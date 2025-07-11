@@ -1,3 +1,3 @@
 # first-repo
 It's my first repo <br>
-Author- Danta Pratyushan sai
+Author- Danta Pratyushansai
